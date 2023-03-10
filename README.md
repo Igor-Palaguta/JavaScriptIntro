@@ -23,3 +23,15 @@ As usual JS is used for writing sites in conjunction with HTML.
     </body>
 </html> 
 ```
+
+## Variables
+
+### Numbers
+
+```js
+var a = 5;
+var b = 6;
+var c = (a + b) * a;
+
+alert(c);
+```
