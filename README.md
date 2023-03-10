@@ -2,9 +2,9 @@
 
 ## Basic Usage
 
-As usual is used for writing sites in conjunction with HTML.
+As usual JS is used for writing sites in conjunction with HTML.
 
-[Examples/basic-usage.html](Examples/basic-usage.html)
+[https://htmlpreview.github.io/?https://raw.githubusercontent.com/Igor-Palaguta/JavaScriptIntro/main/Examples/basic-usage.html](Try it)
 
 ```html
 <!DOCTYPE html>
