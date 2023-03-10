@@ -44,7 +44,7 @@ alert(c);
 
 ### Strings
 
-[Try it](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Igor-Palaguta/JavaScriptIntro/main/Examples/numbers.html)
+[Try it](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Igor-Palaguta/JavaScriptIntro/main/Examples/strings.html)
 
 ```js
 var greeting = "Hello, ";
