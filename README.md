@@ -4,7 +4,7 @@
 
 As usual JS is used for writing sites in conjunction with HTML.
 
-[https://htmlpreview.github.io/?https://raw.githubusercontent.com/Igor-Palaguta/JavaScriptIntro/main/Examples/basic-usage.html](Try it)
+[Try it](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Igor-Palaguta/JavaScriptIntro/main/Examples/basic-usage.html)
 
 ```html
 <!DOCTYPE html>
