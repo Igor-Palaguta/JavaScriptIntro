@@ -28,6 +28,8 @@ As usual JS is used for writing sites in conjunction with HTML.
 
 ### Numbers
 
+[Try it](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Igor-Palaguta/JavaScriptIntro/main/Examples/numbers.html)
+
 ```js
 var a = 5;
 var b = 6;
