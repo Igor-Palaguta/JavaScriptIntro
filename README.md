@@ -35,8 +35,8 @@ As usual JS is used for writing sites in conjunction with HTML.
 [Try it](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Igor-Palaguta/JavaScriptIntro/main/Examples/numbers.html)
 
 ```js
-var a = 5.5;
-var b = 6;
+var a = 5.5; // floating numbers
+var b = 6; // integral numbers
 var c = (a + b) * a;
 
 alert(c);
@@ -47,8 +47,44 @@ alert(c);
 [Try it](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Igor-Palaguta/JavaScriptIntro/main/Examples/strings.html)
 
 ```js
-var greeting = "Hello, ";
-var name = 'Sveta';
+var greeting = "Hello, "; // Double quotes
+var name = 'Sveta'; // Or single quotes
 
-alert(greeting + name);
+alert(greeting + name); // Hello, Sveta
 ```
+
+### Array
+
+```js
+var shoppingList = ["apples", "meat"];
+
+// adds rice to the end
+shoppingList.push("rice")
+
+console.log(shoppingList.length) // 3
+
+console.log(shoppingList[0]); // "apples"
+console.log(shoppingList[1]); // "meat"
+console.log(shoppingList[2]); // "rice"
+
+shoppingList[0] = "oranges";
+
+console.log(shoppingList[0]); // "oranges"
+
+// remove 1 element starting index 2
+shoppingList.splice(2, 1)
+
+console.log(shoppingList); // "oranges", "meat"
+```
+
+### Logical
+
+
+
+## Conditional statement
+
+## Loops
+
+## Functions
+
+## Commenting
